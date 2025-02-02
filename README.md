@@ -1,6 +1,6 @@
 # Weather-App
 
-# https://viraj1213.github.io/Weather-App/
+# https://virajmakhija1213.github.io/Weather-App/
 
 
 A simple weather application that allows users to search for current weather conditions in any city using the OpenWeatherMap API. The app displays the city's temperature, humidity, and wind speed in a clean and user-friendly interface.
